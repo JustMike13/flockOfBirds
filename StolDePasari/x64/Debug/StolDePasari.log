@@ -1,0 +1,5 @@
+﻿  StolDePasari_Main.cpp
+D:\FMI AN 3 SEM 1\Grafica\Proiect\StolDePasari\StolDePasari_Main.cpp(39,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\FMI AN 3 SEM 1\Grafica\Proiect\StolDePasari\StolDePasari_Main.cpp(209,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\FMI AN 3 SEM 1\Grafica\Proiect\StolDePasari\StolDePasari_Main.cpp(210,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  StolDePasari.vcxproj -> D:\FMI AN 3 SEM 1\Grafica\Proiect\StolDePasari\x64\Debug\StolDePasari.exe
